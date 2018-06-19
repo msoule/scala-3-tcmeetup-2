@@ -1,0 +1,10 @@
+target/
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+project/target/
+project/project/
+*.swp
+.DS_Store
